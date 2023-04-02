@@ -95,7 +95,10 @@ section {
   flex-direction: column;
   background-color: greenyellow;
 }
-
+#principal{
+  background-image: url("templates/imagem\ da\ section.png");
+  background-size: cover;
+}
 #nós {
   background-color: greenyellow;
 }
@@ -110,4 +113,8 @@ h1 {
 }
 p {
   font-family: AmiryQuran;
+}
+#bemvindo {
+  color: white;
+  font-family: Alkatra;
 }
