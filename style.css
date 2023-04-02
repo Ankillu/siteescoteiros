@@ -93,18 +93,18 @@ section {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: greenyellow;
+  background-color: #48D1CC;
 }
 #principal{
   background-image: url("templates/imagem\ da\ section.png");
   background-size: cover;
 }
 #nós {
-  background-color: greenyellow;
+  background-color: #48D1CC;
 }
 
 #historia {
-  background-color: greenyellow;
+  background-color: #48D1CC;
   text-align: center;
 } 
 
@@ -118,3 +118,7 @@ p {
   color: white;
   font-family: Alkatra;
 }
+#escotismo {
+  text-align: center;
+}
+
